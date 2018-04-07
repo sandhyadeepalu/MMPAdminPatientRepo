@@ -1,0 +1,19 @@
+BEFORE SUITE
+
+
+               LAUNCH
+
+AFTER SUITE
+
+              CLOSE
+
+
+BEFORE TEST
+
+              LOGIN
+
+
+AFTER TEST                          EMP REG               USER REG
+
+              LOG OUT
+
